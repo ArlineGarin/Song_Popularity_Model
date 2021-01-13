@@ -3,8 +3,8 @@ title: "How music composition key metrics affect popularity of a song?"
 subtitle: 'Data Science: R'
 authors: Arline Garin & Mariana Salazar Mejia
 output:
-  pdf_document: default
-  rmarkdown::github_document: default
+ md_document:
+    variant: markdown_github
 ---
 
 # Part I - Set-up {-}
